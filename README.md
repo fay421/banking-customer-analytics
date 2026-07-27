@@ -90,3 +90,12 @@ Interactive Power BI Dashboard
 
 <img src="dashboard/branch-financial-performance.JPG" width="1000">
 
+---
+
+## 🔍 Key Business Insights
+
+- 📈 Retain customers maintain the highest average account balance.
+- 🎯 Target customers generate the highest transaction activity.
+- 💰 Cross-sell customers present opportunities for additional financial products.
+- 🏦 Branch performance varies significantly by revenue and profit margin.
+- 🌍 Regional comparisons highlight differences in revenue and operating expenses.
