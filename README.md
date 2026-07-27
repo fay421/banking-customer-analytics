@@ -49,11 +49,26 @@ This project was developed to transform raw banking data into meaningful busines
 | Git & GitHub | Version Control |
 
 
+## Executive Summary
+
+This project analyzes customer transactions and branch performance to help a bank identify high-value customers, improve retention strategies, and uncover business growth opportunities. Using SQL for data preparation and analysis, Power BI for interactive dashboards, and business-driven KPIs, the project segments customers into actionable groups such as Retain, Target, Cross-sell, and Low Value.
+
+The analysis reveals customer behavior, financial performance, and branch profitability through interactive visualizations, enabling data-driven decision-making for marketing, customer relationship management, and strategic planning.
+
+Key Business Outcomes
+Identified high-value customers for retention campaigns.
+Segmented customers based on business value and engagement.
+Evaluated branch revenue, expenses, and profit margin.
+Analyzed transaction and investment trends.
+Built an executive dashboard for business stakeholders.
+
+
 ---
 
 ## 🔄 Project Workflow
 
-```text
+```
+
 Raw CSV Files
       │
       ▼
@@ -74,7 +89,7 @@ Business KPI Development
       ▼
 Interactive Power BI Dashboard
 ```
----
+
 
 ## 📊 Dashboard Preview
 
@@ -128,17 +143,34 @@ Interactive Power BI Dashboard
 
 ## 📁 Repository Structure
 
-```text
 banking-customer-analytics/
 │
 ├── data/
-├── sql/
-├── powerbi/
+│   ├── bank_data.csv
+│   ├── customer_data.csv
+│   └── transaction_data.csv
+│
+├── SQL/
+│   └── Bank_transaction_Project.sql
+│
+├── PBI/
+│   └── Bank_transaction_Project.pbix
+│
 ├── dashboard/
-├── executive-summary/
+│   ├── executive-overview.jpg
+│   ├── customer-segmentation.jpg
+│   └── branch-performance.jpg
+│
 ├── README.md
 └── LICENSE
-```
+
+
+
+
+
+
+
+
 
 ## 📬 Contact
 
