@@ -74,5 +74,19 @@ Business KPI Development
       ▼
 Interactive Power BI Dashboard
 ```
+---
 
+## 📊 Dashboard Preview
+
+### 🏠 Executive Overview
+
+<img src="dashboard/executive-overview.JPG" width="1000">
+
+### 👥 Customer Segmentation & Value Analysis
+
+<img src="dashboard/customer-segmentation.JPG" width="1000">
+
+### 🏦 Branch Financial Performance
+
+<img src="dashboard/branch-financial-performance.JPG" width="1000">
 
