@@ -112,7 +112,7 @@ Interactive Power BI Dashboard
 
 ## 🏦 Branch Financial Performance
 
-![Branch Performance](dashboard/branch-performance.JPG)
+![Branch Performance](dashboard/branch-financial-performance.JPG)
 
 ## 🔍 Key Business Insights
 
