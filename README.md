@@ -139,3 +139,11 @@ banking-customer-analytics/
 ├── README.md
 └── LICENSE
 ```
+---
+
+## 📬 Contact
+
+If you have any questions or feedback about this project, feel free to connect with me.
+
+- **LinkedIn:** www.linkedin.com/in/fahimeh-lari
+- **GitHub:** https://github.com/fay421
