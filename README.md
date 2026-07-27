@@ -1,6 +1,6 @@
 # 🏦 Banking Customer Analytics & Customer Segmentation
 
-### End-to-End SQL & Power BI Business Intelligence Project
+### EEnd-to-End Banking Analytics Project using SQL & Power BI
 
 <p align="center">
   <img src="dashboard/executive-overview.JPG" width="1000">
