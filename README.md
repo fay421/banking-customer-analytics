@@ -123,3 +123,19 @@ Interactive Power BI Dashboard
 - Power BI Dashboard Design
 - Data Storytelling
 - Business Analytics
+
+- ---
+
+## 📁 Repository Structure
+
+```text
+banking-customer-analytics/
+│
+├── data/
+├── sql/
+├── powerbi/
+├── dashboard/
+├── executive-summary/
+├── README.md
+└── LICENSE
+```
