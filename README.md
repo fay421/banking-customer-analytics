@@ -1,6 +1,6 @@
-# 🏦 Banking Customer Analytics & Customer Segmentation
+# **🏦 Banking Customer Analytics & Customer Segmentation**
 
-### EEnd-to-End Banking Analytics Project using SQL & Power BI
+### End-to-End Banking Analytics Project using SQL & Power BI
 
 <p align="center">
   <img src="dashboard/executive-overview.JPG" width="1000">
@@ -8,8 +8,7 @@
 
 <p align="center">
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
@@ -56,11 +55,11 @@ This project analyzes customer transactions and branch performance to help a ban
 The analysis reveals customer behavior, financial performance, and branch profitability through interactive visualizations, enabling data-driven decision-making for marketing, customer relationship management, and strategic planning.
 
 Key Business Outcomes
-Identified high-value customers for retention campaigns.
-Segmented customers based on business value and engagement.
-Evaluated branch revenue, expenses, and profit margin.
-Analyzed transaction and investment trends.
-Built an executive dashboard for business stakeholders.
+* Identified high-value customers for retention campaigns.
+* Segmented customers based on business value and engagement.
+* Evaluated branch revenue, expenses, and profit margin.
+* Analyzed transaction and investment trends.
+* Built an executive dashboard for business stakeholders.
 
 
 ---
