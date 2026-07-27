@@ -109,3 +109,17 @@ Interactive Power BI Dashboard
 - Investigate lower-performing branches to improve profitability.
 - Optimize regional resource allocation using revenue and expense trends.
 - Monitor customer value metrics to support long-term business growth.
+
+---
+
+## 🚀 Skills Demonstrated
+
+- SQL (Joins, CTEs, Window Functions)
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Customer Segmentation
+- KPI Development
+- Star Schema Data Modeling
+- Power BI Dashboard Design
+- Data Storytelling
+- Business Analytics
