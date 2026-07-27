@@ -104,15 +104,15 @@ Interactive Power BI Dashboard
 
 ## 🏠 Executive Overview
 
-![Executive Overview](dashboard/executive-overview.jpg)
+![Executive Overview](dashboard/executive-overview.JPG)
 
 ## 👥 Customer Segmentation
 
-![Customer Segmentation](dashboard/customer-segmentation.jpg)
+![Customer Segmentation](dashboard/customer-segmentation.JPG)
 
 ## 🏦 Branch Financial Performance
 
-![Branch Performance](dashboard/branch-performance.jpg)
+![Branch Performance](dashboard/branch-performance.JPG)
 
 ## 🔍 Key Business Insights
 
