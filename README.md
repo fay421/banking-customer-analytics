@@ -38,6 +38,16 @@ This project was developed to transform raw banking data into meaningful busines
 
 ---
 
+## 📂 Dataset Overview
+
+- 10,000 Banking Transactions
+- 6,335 Unique Customers
+- 950 Branches
+- Three relational tables
+- Star schema data model
+
+  
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
@@ -83,7 +93,7 @@ Exploratory Data Analysis
 Customer Segmentation
       │
       ▼
-Business KPI Development
+KPI Development
       │
       ▼
 Interactive Power BI Dashboard
@@ -92,19 +102,17 @@ Interactive Power BI Dashboard
 
 ## 📊 Dashboard Preview
 
-### 🏠 Executive Overview
+## 🏠 Executive Overview
 
-<img src="dashboard/executive-overview.JPG" width="1000">
+![Executive Overview](dashboard/executive-overview.jpg)
 
-### 👥 Customer Segmentation & Value Analysis
+## 👥 Customer Segmentation
 
-<img src="dashboard/customer-segmentation.JPG" width="1000">
+![Customer Segmentation](dashboard/customer-segmentation.jpg)
 
-### 🏦 Branch Financial Performance
+## 🏦 Branch Financial Performance
 
-<img src="dashboard/branch-financial-performance.JPG" width="1000">
-
----
+![Branch Performance](dashboard/branch-performance.jpg)
 
 ## 🔍 Key Business Insights
 
@@ -128,40 +136,31 @@ Interactive Power BI Dashboard
 
 ## 🚀 Skills Demonstrated
 
-- SQL (Joins, CTEs, Window Functions)
-- Data Cleaning & Validation
-- Exploratory Data Analysis (EDA)
-- Customer Segmentation
-- KPI Development
-- Star Schema Data Modeling
-- Power BI Dashboard Design
-- Data Storytelling
-- Business Analytics
+* SQL
+* Power BI
+* Data Cleaning & Validation
+* Exploratory Data Analysis (EDA)
+* Customer Segmentation
+* KPI Development
+* Window Functions
+* Star Schema Data Modeling
+* Business Analytics
+* Data Storytelling
 
 - ---
 
 ## 📁 Repository Structure
 
+```text
 banking-customer-analytics/
 │
 ├── data/
-│   ├── bank_data.csv
-│   ├── customer_data.csv
-│   └── transaction_data.csv
-│
 ├── SQL/
-│   └── Bank_transaction_Project.sql
-│
 ├── PBI/
-│   └── Bank_transaction_Project.pbix
-│
 ├── dashboard/
-│   ├── executive-overview.jpg
-│   ├── customer-segmentation.jpg
-│   └── branch-performance.jpg
-│
 ├── README.md
 └── LICENSE
+```
 
 
 
@@ -175,5 +174,5 @@ banking-customer-analytics/
 
 If you have any questions or feedback about this project, feel free to connect with me.
 
-- **LinkedIn:** www.linkedin.com/in/fahimeh-lari
-- **GitHub:** https://github.com/fay421
+- LinkedIn: www.linkedin.com/in/fahimeh-lari
+- GitHub: github.com/fay421
