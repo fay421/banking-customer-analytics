@@ -49,6 +49,30 @@ This project was developed to transform raw banking data into meaningful busines
 | Git & GitHub | Version Control |
 
 
+---
 
+## 🔄 Project Workflow
+
+```text
+Raw CSV Files
+      │
+      ▼
+Data Cleaning (SQL)
+      │
+      ▼
+Data Validation
+      │
+      ▼
+Exploratory Data Analysis
+      │
+      ▼
+Customer Segmentation
+      │
+      ▼
+Business KPI Development
+      │
+      ▼
+Interactive Power BI Dashboard
+```
 
 
