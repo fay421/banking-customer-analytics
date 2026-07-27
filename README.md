@@ -17,17 +17,36 @@
 
 ---
 
-## 📌 Project Overview
+## 🎯 Business Problem
 
-This project demonstrates an end-to-end banking analytics solution built using **MySQL** and **Power BI**.
+Retail banks generate large volumes of customer and transaction data every day. However, without a centralized analytics solution, it is difficult to identify high-value customers, evaluate branch performance, and support strategic decision-making.
 
-The objective is to transform raw banking data into actionable business insights that help management:
+This project was developed to transform raw banking data into meaningful business insights through SQL analysis, customer segmentation, and interactive Power BI dashboards.
 
-- Improve customer retention
-- Identify high-value customers
-- Discover cross-selling opportunities
-- Evaluate branch performance
-- Support strategic business decisions
+---
+
+## 🎯 Project Objectives
+
+✔ Analyze customer behavior and financial activity
+
+✔ Segment customers into Retain, Target, Cross-sell, and Low Value groups
+
+✔ Evaluate branch and regional performance
+
+✔ Design executive dashboards for business decision-making
+
+✔ Deliver actionable business recommendations
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| MySQL | Data Cleaning & Analysis |
+| SQL | Data Analysis |
+| Power BI | Dashboard Development |
+| Git & GitHub | Version Control |
 
 
 
