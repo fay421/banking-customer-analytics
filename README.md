@@ -1,65 +1,33 @@
-🏦 Banking Customer Analytics & Customer Segmentation
-End-to-End SQL & Power BI Business Intelligence Project
+# 🏦 Banking Customer Analytics & Customer Segmentation
 
-(Insert your best dashboard screenshot here as the cover image.)
-📌 Project Overview
+### End-to-End SQL & Power BI Business Intelligence Project
 
-This project demonstrates an end-to-end analytics workflow for a retail banking scenario using SQL and Power BI.
+<p align="center">
+  <img src="dashboard/executive-overview.JPG" width="1000">
+</p>
 
-The objective is to transform raw banking data into business insights that help management:
+<p align="center">
 
-Improve customer retention
-Identify cross-selling opportunities
-Evaluate branch performance
-Monitor key business KPIs
-🛠️ Tech Stack
-Tool	Purpose
-MySQL	Data Cleaning & Analysis
-SQL	Business Analytics
-Power BI	Dashboard Development
-GitHub	Project Documentation
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-📂 Project Workflow
+</p>
 
-Instead of paragraphs:
-Raw CSV Files
-      │
-      ▼
-Data Cleaning (SQL)
-      │
-      ▼
-Data Validation
-      │
-      ▼
-EDA
-      │
-      ▼
-Customer Segmentation
-      │
-      ▼
-Business KPIs
-      │
-      ▼
-Power BI Dashboard
+---
 
-📊 Dashboard Pages
+## 📌 Project Overview
 
-🖼️ Executive Overview
+This project demonstrates an end-to-end banking analytics solution built using **MySQL** and **Power BI**.
 
-🖼️ Customer Segmentation
+The objective is to transform raw banking data into actionable business insights that help management:
 
-🖼️ Branch Financial Performance
-
-
-🔍 Key Insights
-
-📈 Retain customers maintain the highest average account balance.
-💰 Target customers generate the highest transaction volume.
-🏦 Revenue varies significantly across branches.
-🌍 Regional expense patterns highlight opportunities for cost optimization.
-
-
-
+- Improve customer retention
+- Identify high-value customers
+- Discover cross-selling opportunities
+- Evaluate branch performance
+- Support strategic business decisions
 
 
 
